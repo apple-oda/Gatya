@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import tool.FileReader;
 
 public class CardManager {
-  public static final String CARDFILEPATH = "CardList01.csv";
+  public static final String CARDFILEPATH = "CardList02.csv";
 
   private List<Card> cardList;
 
